@@ -36,6 +36,10 @@
       <entry name="!?*.java" />
     </wildcardResourcePatterns>
     <bytecodeTargetLevel target="1.6">
+      <module name="2D-PUBG.core.main" target="1.6" />
+      <module name="2D-PUBG.core.test" target="1.6" />
+      <module name="2D-PUBG.desktop.main" target="1.6" />
+      <module name="2D-PUBG.desktop.test" target="1.6" />
       <module name="G12FSE.core.main" target="1.6" />
       <module name="G12FSE.core.test" target="1.6" />
       <module name="G12FSE.desktop.main" target="1.6" />
@@ -53,9 +57,12 @@
     <file url="PROJECT" charset="windows-1252" />
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -84,40 +91,64 @@
     <version value="1.0" />
   </component>
   <component name="JavadocGenerationManager">
-    <option name="OUTPUT_DIRECTORY" />
-    <option name="OPTION_SCOPE" value="protected" />
-    <option name="OPTION_HIERARCHY" value="true" />
-    <option name="OPTION_NAVIGATOR" value="true" />
-    <option name="OPTION_INDEX" value="true" />
-    <option name="OPTION_SEPARATE_INDEX" value="true" />
-    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
-    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
-    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
-    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
-    <option name="OPTION_DEPRECATED_LIST" value="true" />
     <option name="OTHER_OPTIONS" value="" />
-    <option name="HEAP_SIZE" />
-    <option name="LOCALE" />
-    <option name="OPEN_IN_BROWSER" value="true" />
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/G12FSE.iml" filepath="$PROJECT_DIR$/G12FSE.iml" />
-      <module fileurl="file://$PROJECT_DIR$/core/G12FSE.core.iml" filepath="$PROJECT_DIR$/core/G12FSE.core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/core/G12FSE.core.main.iml" filepath="$PROJECT_DIR$/core/G12FSE.core.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/core/G12FSE.core.test.iml" filepath="$PROJECT_DIR$/core/G12FSE.core.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/desktop/G12FSE.desktop.iml" filepath="$PROJECT_DIR$/desktop/G12FSE.desktop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/desktop/G12FSE.desktop.main.iml" filepath="$PROJECT_DIR$/desktop/G12FSE.desktop.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/desktop/G12FSE.desktop.test.iml" filepath="$PROJECT_DIR$/desktop/G12FSE.desktop.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/desktop/desktop.iml" filepath="$PROJECT_DIR$/desktop/desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2D-PUBG.iml" filepath="$PROJECT_DIR$/2D-PUBG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/2D-PUBG.core.iml" filepath="$PROJECT_DIR$/core/2D-PUBG.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/2D-PUBG.core.main.iml" filepath="$PROJECT_DIR$/core/2D-PUBG.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/2D-PUBG.core.test.iml" filepath="$PROJECT_DIR$/core/2D-PUBG.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desktop/2D-PUBG.desktop.iml" filepath="$PROJECT_DIR$/desktop/2D-PUBG.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desktop/2D-PUBG.desktop.main.iml" filepath="$PROJECT_DIR$/desktop/2D-PUBG.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desktop/2D-PUBG.desktop.test.iml" filepath="$PROJECT_DIR$/desktop/2D-PUBG.desktop.test.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.8.0_211" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="https://oss.sonatype.org/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="https://oss.sonatype.org/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenLocal" />
+      <option name="name" value="MavenLocal" />
+      <option name="url" value="file:$MAVEN_REPOSITORY$" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenLocal" />
+      <option name="name" value="MavenLocal" />
+      <option name="url" value="file:$MAVEN_REPOSITORY$/" />
+    </remote-repository>
+  </component>
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Gradle: com.badlogicgames.gdx:gdx-backend-lwjgl:1.9.8">

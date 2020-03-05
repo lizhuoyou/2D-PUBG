@@ -6,17 +6,29 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa822266-4633-496e-bc42-37831dbcbad0" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/core/.gradle/" />
-    <ignored path="$PROJECT_DIR$/core/build/" />
-    <ignored path="$PROJECT_DIR$/desktop/.gradle/" />
-    <ignored path="$PROJECT_DIR$/desktop/build/" />
-    <ignored path="$PROJECT_DIR$/core/out/" />
-    <ignored path="$PROJECT_DIR$/desktop/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="aa822266-4633-496e-bc42-37831dbcbad0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2D-PUBG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/2D-PUBG.core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/2D-PUBG.core.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/2D-PUBG.core.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/2D-PUBG.desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/2D-PUBG.desktop.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/2D-PUBG.desktop.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G12FSE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/G12FSE.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/G12FSE.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G12FSE.iws" beforeDir="false" afterPath="$PROJECT_DIR$/G12FSE.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/G12FSE.core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/G12FSE.core.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/G12FSE.core.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/G12FSE.desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/G12FSE.desktop.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/G12FSE.desktop.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/users.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,9 +74,6 @@
     <breakpoint_rules converted="true" />
     <ui_properties converted="true" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -76,172 +85,6 @@
         <projects_view />
       </state>
     </system>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Tools.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Character.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="15" />
-              <folding>
-                <element signature="e#1994#1995#0" expanded="true" />
-                <element signature="e#2012#2013#0" expanded="true" />
-                <element signature="e#2043#2044#0" expanded="true" />
-                <element signature="e#2062#2063#0" expanded="true" />
-                <element signature="e#2112#2113#0" expanded="true" />
-                <element signature="e#2147#2148#0" expanded="true" />
-                <element signature="e#2179#2180#0" expanded="true" />
-                <element signature="e#2196#2197#0" expanded="true" />
-                <element signature="e#2227#2228#0" expanded="true" />
-                <element signature="e#2243#2244#0" expanded="true" />
-                <element signature="e#2274#2275#0" expanded="true" />
-                <element signature="e#2296#2297#0" expanded="true" />
-                <element signature="e#2326#2327#0" expanded="true" />
-                <element signature="e#2347#2348#0" expanded="true" />
-                <element signature="e#4056#4057#0" expanded="true" />
-                <element signature="e#4109#4110#0" expanded="true" />
-                <element signature="e#4152#4153#0" expanded="true" />
-                <element signature="e#4208#4209#0" expanded="true" />
-                <element signature="e#4246#4247#0" expanded="true" />
-                <element signature="e#4267#4268#0" expanded="true" />
-                <element signature="e#4312#4313#0" expanded="true" />
-                <element signature="e#4362#4363#0" expanded="true" />
-                <element signature="e#4637#4638#0" expanded="true" />
-                <element signature="e#4658#4659#0" expanded="true" />
-                <element signature="e#4693#4694#0" expanded="true" />
-                <element signature="e#4716#4717#0" expanded="true" />
-                <element signature="e#4858#4859#0" expanded="true" />
-                <element signature="e#4891#4892#0" expanded="true" />
-                <element signature="e#4922#4923#0" expanded="true" />
-                <element signature="e#4941#4942#0" expanded="true" />
-                <element signature="e#5039#5040#0" expanded="true" />
-                <element signature="e#5058#5059#0" expanded="true" />
-                <element signature="e#5086#5087#0" expanded="true" />
-                <element signature="e#5106#5107#0" expanded="true" />
-                <element signature="e#5133#5134#0" expanded="true" />
-                <element signature="e#5153#5154#0" expanded="true" />
-                <element signature="e#5183#5184#0" expanded="true" />
-                <element signature="e#5211#5212#0" expanded="true" />
-                <element signature="e#5241#5242#0" expanded="true" />
-                <element signature="e#5270#5271#0" expanded="true" />
-                <element signature="e#5301#5302#0" expanded="true" />
-                <element signature="e#5320#5321#0" expanded="true" />
-                <element signature="e#12845#12846#0" expanded="true" />
-                <element signature="e#12861#12862#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Menu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="e#885#886#0" expanded="true" />
-                <element signature="e#898#899#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Armor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Halmet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/HandGun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MachineGun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MapDesign.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#MapDesign#0;class#MapDesign#0" />
-                <element signature="method#getPreviousMap#0;class#MapDesign#0" />
-                <element signature="method#save#0;class#MapDesign#0" />
-                <element signature="method#getNewMap_Basic#0;class#MapDesign#0" />
-                <element signature="method#setMap_Basic_SolidGround#0;class#MapDesign#0" />
-                <element signature="method#generateMap#0;class#MapDesign#0" />
-                <element signature="method#getNewMap_Obstacle#0;class#MapDesign#0" />
-                <element signature="method#setMap_obstacles#0;class#MapDesign#0" />
-                <element signature="method#generateObstacleMap#0;class#MapDesign#0" />
-                <element signature="method#getMovingSpeed#0;class#MapDesign#0" />
-                <element signature="method#validPosition#0;class#MapDesign#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -273,33 +116,14 @@
       <replace>Character</replace>
     </replaceStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/core/src/com/mygdx/game/FseGame.java" />
-        <option value="$PROJECT_DIR$/../../FSE(2)/FSE/core/src/com/mygdx/game/FseGame.java" />
-        <option value="$PROJECT_DIR$/core/src/com/mygdx/game/Crate.java" />
-        <option value="$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
-        <option value="$PROJECT_DIR$/../../FSE(3)/FSE/core/src/com/mygdx/game/FseGame.java" />
-        <option value="$PROJECT_DIR$/../../FseGame(2).java" />
-        <option value="$PROJECT_DIR$/../../MyGdxGame.java" />
-        <option value="$PROJECT_DIR$/core/src/com/mygdx/game/MapDesign.java" />
-        <option value="$PROJECT_DIR$/core/src/com/mygdx/game/Tools.java" />
-        <option value="$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" />
-        <option value="$PROJECT_DIR$/core/src/com/mygdx/game/Character.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="445" />
-    <option name="y" value="20" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
-  </component>
+  <component name="ProjectId" id="1YgcAjrUKsPSGbrI8R56ToRDxKm" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state />
@@ -308,35 +132,10 @@
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="G12FSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G12FSE" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="G12FSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G12FSE" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="G12FSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G12FSE" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
@@ -345,29 +144,16 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560799226779" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
-    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
-      <Host>localhost</Host>
-      <Port>5050</Port>
-    </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -375,9 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
     <configuration name="DesktopLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mygdx.game.desktop.DesktopLauncher" />
-      <module name="desktop" />
+      <module name="2D-PUBG.desktop.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.mygdx.game.desktop.*" />
@@ -435,46 +225,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556030771091</updated>
+      <workItem from="1583367541190" duration="390000" />
+      <workItem from="1583368209540" duration="279000" />
+      <workItem from="1583368949460" duration="1081000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="934" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20783848" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917696" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32921812" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.41563785" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32897863" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.32897863" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Gradle" order="8" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="150" key="#DesktopLauncher" timestamp="1583367634348">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="516" y="150" key="#DesktopLauncher/0.23.1680.944@0.23.1680.944" timestamp="1583367634348" />
+    <state x="577" y="286" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583367611430">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="577" y="286" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.944@0.23.1680.944" timestamp="1583367611430" />
+    <state x="689" y="391" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583367553597">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="689" y="391" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.944@0.23.1680.944" timestamp="1583367553597" />
+    <state width="1358" height="140" key="GridCell.Tab.0.bottom" timestamp="1583370034536">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1358" height="140" key="GridCell.Tab.0.bottom/0.23.1680.944@0.0.1680.1050" timestamp="1583370034536" />
+    <state width="1358" height="140" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1583369544352" />
+    <state width="1358" height="140" key="GridCell.Tab.0.center" timestamp="1583370034535">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1358" height="140" key="GridCell.Tab.0.center/0.23.1680.944@0.0.1680.1050" timestamp="1583370034535" />
+    <state width="1358" height="140" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1583369544351" />
+    <state width="1358" height="140" key="GridCell.Tab.0.center/0.23.1680.947@0.0.1680.1050" timestamp="1583370034439" />
+    <state width="1358" height="140" key="GridCell.Tab.0.left" timestamp="1583370034534">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1358" height="140" key="GridCell.Tab.0.left/0.23.1680.944@0.0.1680.1050" timestamp="1583370034534" />
+    <state width="1358" height="140" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1583369544350" />
+    <state width="1358" height="140" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1583370034434" />
+    <state width="1358" height="140" key="GridCell.Tab.0.right" timestamp="1583370034535">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1358" height="140" key="GridCell.Tab.0.right/0.23.1680.944@0.0.1680.1050" timestamp="1583370034535" />
+    <state width="1358" height="140" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1583369544351" />
+    <state x="517" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1583368955348">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="517" y="327" key="com.intellij.ide.util.TipDialog/0.23.1680.944@0.23.1680.944" timestamp="1583368955348" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -482,177 +284,15 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/core/src/com/mygdx/game/MapDesign.java</url>
           <line>202</line>
-          <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java</url>
           <line>1134</line>
-          <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/bac17f395be5010619b31280fe84e9f53118d0b9/gdx-1.9.8-sources.jar!/com/badlogic/gdx/graphics/Texture.java" />
-    <entry file="file://$PROJECT_DIR$/../ALEX/FSE/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-lwjgl/1.9.8/680fd8ed8d823a1510d4bea1ab59248934d1deca/gdx-backend-lwjgl-1.9.8-sources.jar!/com/badlogic/gdx/backends/lwjgl/LwjglApplication.java" />
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/FseGame.java" />
-    <entry file="file://$PROJECT_DIR$/../../FSE(2)/FSE/core/src/com/mygdx/game/FseGame.java" />
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Combat.java" />
-    <entry file="file://$PROJECT_DIR$/../../FSE(2)/FSE/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zipFile.zip/G12FSE/core/src/com/mygdx/game/MapDesign.java" />
-    <entry file="file://$PROJECT_DIR$/../../FSE(3)/FSE/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java" />
-    <entry file="file://$PROJECT_DIR$/../../FSE(3)/FSE/core/src/com/mygdx/game/Crate.java" />
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Crate.java" />
-    <entry file="file://$PROJECT_DIR$/../../src/com/mygdx/game/Character.java" />
-    <entry file="file://$PROJECT_DIR$/../../DesktopLauncher.java" />
-    <entry file="file://$PROJECT_DIR$/../../FseGame(2).java" />
-    <entry file="file://$PROJECT_DIR$/../../FSE(3)/FSE/core/src/com/mygdx/game/FseGame.java" />
-    <entry file="file://$PROJECT_DIR$/../../MyGdxGame.java" />
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="15" />
-          <folding>
-            <element signature="e#1994#1995#0" expanded="true" />
-            <element signature="e#2012#2013#0" expanded="true" />
-            <element signature="e#2043#2044#0" expanded="true" />
-            <element signature="e#2062#2063#0" expanded="true" />
-            <element signature="e#2112#2113#0" expanded="true" />
-            <element signature="e#2147#2148#0" expanded="true" />
-            <element signature="e#2179#2180#0" expanded="true" />
-            <element signature="e#2196#2197#0" expanded="true" />
-            <element signature="e#2227#2228#0" expanded="true" />
-            <element signature="e#2243#2244#0" expanded="true" />
-            <element signature="e#2274#2275#0" expanded="true" />
-            <element signature="e#2296#2297#0" expanded="true" />
-            <element signature="e#2326#2327#0" expanded="true" />
-            <element signature="e#2347#2348#0" expanded="true" />
-            <element signature="e#4056#4057#0" expanded="true" />
-            <element signature="e#4109#4110#0" expanded="true" />
-            <element signature="e#4152#4153#0" expanded="true" />
-            <element signature="e#4208#4209#0" expanded="true" />
-            <element signature="e#4246#4247#0" expanded="true" />
-            <element signature="e#4267#4268#0" expanded="true" />
-            <element signature="e#4312#4313#0" expanded="true" />
-            <element signature="e#4362#4363#0" expanded="true" />
-            <element signature="e#4637#4638#0" expanded="true" />
-            <element signature="e#4658#4659#0" expanded="true" />
-            <element signature="e#4693#4694#0" expanded="true" />
-            <element signature="e#4716#4717#0" expanded="true" />
-            <element signature="e#4858#4859#0" expanded="true" />
-            <element signature="e#4891#4892#0" expanded="true" />
-            <element signature="e#4922#4923#0" expanded="true" />
-            <element signature="e#4941#4942#0" expanded="true" />
-            <element signature="e#5039#5040#0" expanded="true" />
-            <element signature="e#5058#5059#0" expanded="true" />
-            <element signature="e#5086#5087#0" expanded="true" />
-            <element signature="e#5106#5107#0" expanded="true" />
-            <element signature="e#5133#5134#0" expanded="true" />
-            <element signature="e#5153#5154#0" expanded="true" />
-            <element signature="e#5183#5184#0" expanded="true" />
-            <element signature="e#5211#5212#0" expanded="true" />
-            <element signature="e#5241#5242#0" expanded="true" />
-            <element signature="e#5270#5271#0" expanded="true" />
-            <element signature="e#5301#5302#0" expanded="true" />
-            <element signature="e#5320#5321#0" expanded="true" />
-            <element signature="e#12845#12846#0" expanded="true" />
-            <element signature="e#12861#12862#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#885#886#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Armor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Halmet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/HandGun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MachineGun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MapDesign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#MapDesign#0;class#MapDesign#0" />
-            <element signature="method#getPreviousMap#0;class#MapDesign#0" />
-            <element signature="method#save#0;class#MapDesign#0" />
-            <element signature="method#getNewMap_Basic#0;class#MapDesign#0" />
-            <element signature="method#setMap_Basic_SolidGround#0;class#MapDesign#0" />
-            <element signature="method#generateMap#0;class#MapDesign#0" />
-            <element signature="method#getNewMap_Obstacle#0;class#MapDesign#0" />
-            <element signature="method#setMap_obstacles#0;class#MapDesign#0" />
-            <element signature="method#generateObstacleMap#0;class#MapDesign#0" />
-            <element signature="method#getMovingSpeed#0;class#MapDesign#0" />
-            <element signature="method#validPosition#0;class#MapDesign#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desktop/src/com/mygdx/game/desktop/DesktopLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
