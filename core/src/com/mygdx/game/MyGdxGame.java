@@ -587,7 +587,7 @@ public class MyGdxGame extends ApplicationAdapter implements InputProcessor,
 		}
 	}
 
-	// alex''--------------------------------------------------------------------------------------------------
+	// --------------------------------------------------------------------------------------------------
 	public Texture resize(Texture srcTexture, int newWidth, int newHeight) // This
 																			// method
 																			// resizes

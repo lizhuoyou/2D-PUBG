@@ -7,25 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa822266-4633-496e-bc42-37831dbcbad0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2D-PUBG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/2D-PUBG.core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/2D-PUBG.core.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/2D-PUBG.core.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/2D-PUBG.desktop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/2D-PUBG.desktop.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop/2D-PUBG.desktop.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/G12FSE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/G12FSE.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/G12FSE.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/G12FSE.iws" beforeDir="false" afterPath="$PROJECT_DIR$/G12FSE.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/G12FSE.core.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/G12FSE.core.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/G12FSE.core.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/core.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/G12FSE.desktop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/G12FSE.desktop.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/G12FSE.desktop.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/desktop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/mygdx/game/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/map.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/users.txt" afterDir="false" />
     </list>
@@ -92,29 +76,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>shaperender</find>
-      <find>move</find>
-      <find>map_mysteriousStorm_radius</find>
-      <find>surface</find>
-      <find>gamestart</find>
-      <find>keyup</find>
-      <find>keyUP</find>
-      <find>drawga</find>
-      <find>medicine</find>
-      <find>mysterious</find>
-      <find>healing</find>
-      <find>cpu</find>
-      <find>surf</find>
-      <find>GCharacter</find>
-      <find>Loading</find>
-      <find>loading</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>Character</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -228,6 +189,8 @@
       <workItem from="1583367541190" duration="390000" />
       <workItem from="1583368209540" duration="279000" />
       <workItem from="1583368949460" duration="1081000" />
+      <workItem from="1583720007996" duration="597000" />
+      <workItem from="1584639953334" duration="4892000" />
     </task>
     <servers />
   </component>
@@ -251,28 +214,32 @@
       <screen x="0" y="23" width="1680" height="944" />
     </state>
     <state x="689" y="391" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.944@0.23.1680.944" timestamp="1583367553597" />
-    <state width="1358" height="140" key="GridCell.Tab.0.bottom" timestamp="1583370034536">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1358" height="2" key="GridCell.Tab.0.bottom" timestamp="1584657463350">
+      <screen x="0" y="23" width="1680" height="937" />
     </state>
+    <state width="1358" height="2" key="GridCell.Tab.0.bottom/0.23.1680.937@0.23.1680.937" timestamp="1584657463350" />
     <state width="1358" height="140" key="GridCell.Tab.0.bottom/0.23.1680.944@0.0.1680.1050" timestamp="1583370034536" />
-    <state width="1358" height="140" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1583369544352" />
-    <state width="1358" height="140" key="GridCell.Tab.0.center" timestamp="1583370034535">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1358" height="140" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1584641103871" />
+    <state width="1358" height="2" key="GridCell.Tab.0.center" timestamp="1584657463349">
+      <screen x="0" y="23" width="1680" height="937" />
     </state>
+    <state width="1358" height="2" key="GridCell.Tab.0.center/0.23.1680.937@0.23.1680.937" timestamp="1584657463349" />
     <state width="1358" height="140" key="GridCell.Tab.0.center/0.23.1680.944@0.0.1680.1050" timestamp="1583370034535" />
-    <state width="1358" height="140" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1583369544351" />
+    <state width="1358" height="140" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1584641103870" />
     <state width="1358" height="140" key="GridCell.Tab.0.center/0.23.1680.947@0.0.1680.1050" timestamp="1583370034439" />
-    <state width="1358" height="140" key="GridCell.Tab.0.left" timestamp="1583370034534">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1358" height="2" key="GridCell.Tab.0.left" timestamp="1584657463349">
+      <screen x="0" y="23" width="1680" height="937" />
     </state>
+    <state width="1358" height="2" key="GridCell.Tab.0.left/0.23.1680.937@0.23.1680.937" timestamp="1584657463349" />
     <state width="1358" height="140" key="GridCell.Tab.0.left/0.23.1680.944@0.0.1680.1050" timestamp="1583370034534" />
-    <state width="1358" height="140" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1583369544350" />
+    <state width="1358" height="140" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1584641103869" />
     <state width="1358" height="140" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1583370034434" />
-    <state width="1358" height="140" key="GridCell.Tab.0.right" timestamp="1583370034535">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1358" height="2" key="GridCell.Tab.0.right" timestamp="1584657463350">
+      <screen x="0" y="23" width="1680" height="937" />
     </state>
+    <state width="1358" height="2" key="GridCell.Tab.0.right/0.23.1680.937@0.23.1680.937" timestamp="1584657463350" />
     <state width="1358" height="140" key="GridCell.Tab.0.right/0.23.1680.944@0.0.1680.1050" timestamp="1583370034535" />
-    <state width="1358" height="140" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1583369544351" />
+    <state width="1358" height="140" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1584641103870" />
     <state x="517" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1583368955348">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
@@ -285,11 +252,6 @@
           <url>file://$PROJECT_DIR$/core/src/com/mygdx/game/MapDesign.java</url>
           <line>202</line>
           <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java</url>
-          <line>1134</line>
-          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

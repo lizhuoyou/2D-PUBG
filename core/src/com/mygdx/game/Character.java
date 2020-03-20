@@ -492,6 +492,5 @@ public class Character
 	public double getHp() {
 		return hp;
 	}
-	
-	
+
 }
